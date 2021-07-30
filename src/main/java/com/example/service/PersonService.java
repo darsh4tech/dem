@@ -15,14 +15,14 @@ public class PersonService {
 		Person p = new Person();
 		p.setId("1");
 		p.setAge(21);
-		p.setFirstName("Amany");
+		p.setFirstName("Mostafa");
 		p.setLastName("Ahmed");
 		persons.add(p);
 
 		p = new Person();
 		p.setId("2");
 		p.setAge(25);
-		p.setFirstName("Islam");
+		p.setFirstName("Ali");
 		p.setLastName("hosaam");
 		persons.add(p);
 		
@@ -36,7 +36,7 @@ public class PersonService {
 		p = new Person();
 		p.setId("4");
 		p.setAge(25);
-		p.setFirstName("Kareem");
+		p.setFirstName("Wizo");
 		p.setLastName("Magdy");
 		persons.add(p);
 		
